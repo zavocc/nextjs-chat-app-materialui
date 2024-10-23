@@ -1,0 +1,6 @@
+/** Set background color of the body to dark */
+body {
+  background-color: #0f0f0f;
+  /* Set text color to white */
+  color: white;
+}
